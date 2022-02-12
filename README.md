@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jacobreese1
 - 👀 I’m interested in becoming a software/web app developer!
-- 🌱 I’m currently learning PHP and MySQL. Have already learned the basics of Javascript, CSS, and HTML 
+- 🌱 I’m currently learning React and React Native. Working towards becoming MERN fluent and to become a developer.
 - 💞️ I’m looking to collaborate on some beginner projects!
 - 📫 How to reach me - email me at jacobreese123@gmail.com
